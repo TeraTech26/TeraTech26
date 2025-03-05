@@ -16,17 +16,15 @@ Salut, je suis un développeur passionné et expérimenté principalement par l'
 
 ## Projets
 
-Voici quelques projets sur lesquels j'ai travaillé :
+Voici un projet (pour l'instant) sur lequel j'ai travaillé :
 
-- [Nom du Projet 1](https://github.com/TeraTech26/Projet1) : Description du projet 1.
-- [Nom du Projet 2](https://github.com/TeraTech26/Projet2) : Description du projet 2.
-- [Nom du Projet 3](https://github.com/TeraTech26/Projet3) : Description du projet 3.
+- [Website](https://github.com/TeraTech26/Projet1) : Je crée mon site web.
+
 
 ## Statistiques GitHub
 
 <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=TeraTech26&show_icons=true&theme=chartreuse-dark&locale=fr" alt="Anurag's GitHub stats"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeraTech26&layout=compact&theme=chartreuse-dark&locale=fr" alt="Top Langs">
 </div>
 
 ## Contact
