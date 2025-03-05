@@ -1,5 +1,5 @@
 # Bienvenue sur mon profil GitHub ! 👋
-Salut, je suis un développeur débutant (pour l'instant), j'essaye sans cesse d'apprendre de nouvelles choses. Je passe mes journées à découvrir, apprendre et améliorer des trucs. Si vous voulez me trouver, je suis disponible le plus souvent, sur Discord. Je suis probablement en train de réfléchir la solution d'un problème auquel je suis confronté.
+Salut, je suis un développeur passionné et expérimenté principalement par l'informatique, toujours en quête de nouvelles connaissances. J'aime explorer, apprendre, expérimenter mes trouvailles et améliorer en continu mes compétences. Chaque jour, je me plonge dans des défis techniques, cherchant sans relâche des solutions aux problèmes qui se présentent. Vous pouvez me trouver le plus souvent sur Discord, où je suis généralement en pleine réflexion sur une nouvelle idée ou un casse-tête à résoudre.
 
 ## Compétences
 
