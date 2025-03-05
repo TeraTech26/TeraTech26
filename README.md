@@ -8,12 +8,25 @@ Salut, je suis un développeur passionné et expérimenté principalement par l'
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> 
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"> 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
+
+/*## Projets
+
+Voici quelques projets sur lesquels j'ai travaillé :
+
+- [Nom du Projet 1](https://github.com/TeraTech26/Projet1) : Description du projet 1.
+- [Nom du Projet 2](https://github.com/TeraTech26/Projet2) : Description du projet 2.
+- [Nom du Projet 3](https://github.com/TeraTech26/Projet3) : Description du projet 3.*/
 
 ## Statistiques GitHub
 
 <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=TeraTech26&show_icons=true&theme=chartreuse-dark&locale=fr" alt="Anurag's GitHub stats"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeraTech26&layout=compact&theme=chartreuse-dark&locale=fr" alt="Top Langs">
 </div>
 
 ## Contact
@@ -24,5 +37,11 @@ Salut, je suis un développeur passionné et expérimenté principalement par l'
   </a> 
   <a href="https://discord.teratech-software.com">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Serveur Discord">
+  </a> 
+  <a href="https://www.linkedin.com/in/teratech26">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Profil LinkedIn">
+  </a> 
+  <a href="https://twitter.com/teratech26">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Profil Twitter">
   </a> 
 </div>
