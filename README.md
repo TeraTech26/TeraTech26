@@ -14,13 +14,13 @@ Salut, je suis un développeur passionné et expérimenté principalement par l'
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
-/*## Projets
+## Projets
 
 Voici quelques projets sur lesquels j'ai travaillé :
 
 - [Nom du Projet 1](https://github.com/TeraTech26/Projet1) : Description du projet 1.
 - [Nom du Projet 2](https://github.com/TeraTech26/Projet2) : Description du projet 2.
-- [Nom du Projet 3](https://github.com/TeraTech26/Projet3) : Description du projet 3.*/
+- [Nom du Projet 3](https://github.com/TeraTech26/Projet3) : Description du projet 3.
 
 ## Statistiques GitHub
 
