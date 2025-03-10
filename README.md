@@ -18,7 +18,7 @@ Salut, je suis un développeur passionné et expérimenté principalement par l'
 
 Voici un projet (pour l'instant) sur lequel j'ai travaillé :
 
-- [Website](https://github.com/TeraTech26/Projet1) : Je crée mon site web.
+- [Website](https://github.com/TeraTech26/website) : Je crée mon site web.
 
 
 ## Statistiques GitHub
