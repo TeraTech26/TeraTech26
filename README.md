@@ -9,12 +9,11 @@ Salut, je suis un développeur passionné et expérimenté principalement par l'
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"> 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
 ## Projets
 
-Voici un projet (pour l'instant) sur lequel j'ai travaillé :
+Voici des projets sur lesquels j'ai travaillé :
 
 - [Website](https://github.com/TeraTech26/website) : Je crée mon site web.
 - [Oh my Zsh](https://github.com/TeraTech26/zsh-config) : Un petit outil pour installer Oh my Zsh rapidement et simplement sur Ubuntu.
