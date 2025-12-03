@@ -49,7 +49,7 @@ Développeur **passionné par la cybersécurité, l’automatisation et le déve
 | **Oh My Zsh**      | Script pour installer Oh My Zsh + plugins sur Ubuntu en 1 commande.       | Bash, Zsh                        | [Voir le repo](https://github.com/TeraTech26/zsh-config)             |
 | **Automatisation** | Scripts pour automatiser des tâches système (backup, monitoring, etc.).   | Python, Bash, Cron               | [Voir le repo](https://github.com/TeraTech26/automation-scripts)    |
 
-*(Tu peux ajouter d’autres projets ici au fur et à mesure !)*
+<!--(Tu peux ajouter d’autres projets ici au fur et à mesure !)-->
 
 ---
 
